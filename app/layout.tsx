@@ -4,7 +4,7 @@ import { ThemeModeScript } from "flowbite-react";
 import { PublicEnvScript } from 'next-runtime-env';
 
 export const metadata = {
-  metadataBase: new URL("https://anix.wah.su"),
+  metadataBase: new URL("https://ani-x-kappa.vercel.app"),
   keywords: ["anix", "anixart", "anime", "аниксарт", "аниме"],
   formatDetection: {
     email: false,
@@ -12,8 +12,8 @@ export const metadata = {
     telephone: false,
   },
   title: {
-    template: "AniX | %s",
-    default: "AniX | Домашняя",
+    template: "AniL | %s",
+    default: "AniL | Домашняя",
   },
   description: "Неофициальное приложение для anixart.tv",
 
